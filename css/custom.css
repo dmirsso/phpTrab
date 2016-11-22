@@ -1,0 +1,28 @@
+.rodape{
+	position:absolute;
+	bottom:0;
+	width:100%;
+}
+.clear{clear: both;}
+
+#frmLogin{
+    padding: 0px !important;
+    margin: 0px !important;
+    width: 300px !important;
+	position: relative !important;
+	top:50% !important;
+	left:50% !important;
+	margin-top:-50px !important;
+	margin-left:-50px !important;    
+}
+
+.conteudo{
+	width: 100%
+
+}
+
+.box {
+    float:left;
+    padding-left: 50px;
+    padding-top: 20px;
+}
